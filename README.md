@@ -1,14 +1,13 @@
-## Hi there 👋 I'm S Sharath Lingam a.k.a Sharath 😀
+## Hi there 👋 I'm S Sharath Lingam 😀
 ![](https://visitor-badge.laobi.icu/badge?page_id=Sharath-1517.Sharath-1517) [![Github](https://img.shields.io/github/followers/Sharath-1517?label=Followers&logo=Github)](https://github.com/Sharath-1517)
 
 
 
 
-## 🎓 I'm a Java Full-Stack learner.
+## 🎓 I'm a Java Full-Stack and DevOps Learner.
 
-- 🌱 I’m currently learning Java full-stack development and Blockchain technologies. 
 - 👯 I’m looking to collaborate with anyone on any project.
-- 💬 Ask me about **Java(Core, JDBC, Servlets), Blockchain mechanisms, Python(Machine learning algorithms), C(basics)**
+- 💬 Ask me about **Java(Core, JDBC, Servlets), Blockchain mechanisms, Python(Machine learning algorithms), C(Intermediate), Javascript(Beginner)**
 - 📫 How to reach me **sharathprof1517@gmail.com**
 
 Email: sharathprof1517@gmail.com, ucs20408@rmd.ac.in
@@ -29,10 +28,7 @@ Email: sharathprof1517@gmail.com, ucs20408@rmd.ac.in
 
 ## :trophy: My Github Stats:
 
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=Sharath-1517&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Sharath-1517&hide=php&theme=tokyonight)
--->
+
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Sharath-1517&theme=tokyonight">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Sharath-1517&count_private=true&show_icons=true&theme=tokyonight" />
