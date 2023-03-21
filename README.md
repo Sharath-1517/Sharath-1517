@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sharathlingams" target="blank"><img src="https://img.shields.io/twitter/follow/sharathlingams?logo=twitter&style=for-the-badge" alt="sharathlingams" /></a> </p>
 
-- 🔭 I’m currently working on [SmartAgrothon hackathon conducted by KCE, Coimbatore, Tamil Nadu](smartagrothon.com)
+- 🔭 I’m currently working on open source researches and contributions to [XWiki organization](https://github.com/xwiki)
 
 - 🌱 I’m currently learning **React.js, TailwindCSS**
 
@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with **Fullstack mentoring and oppurtunities**
 
-- 👨‍💻 All of my projects are available at my GitHub repositories [https://github.com/Sharath-1517?tab=repositories](https://github.com/Sharath-1517?tab=repositories)
+- 👨‍💻 All of my projects are available at my [GitHub repositories](https://github.com/Sharath-1517?tab=repositories)
 
-- 📝 I write articles on [https://sharathlingam.hashnode.dev/](https://sharathlingam.hashnode.dev/)
+- 📝 I write articles on [Hashnode - sharathlingam](https://sharathlingam.hashnode.dev/)
 
-- 💬 Ask me about **HTML, CSS, Java, SASS, Javascript, React.js,**
+- 💬 Ask me about **HTML, CSS, Java, SASS, SCSS,Javascript, React.js**
 
 - 📫 How to reach me **sharathprof1517@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VUM7Kd52kyTlaXrZF0yYvHjGZITfxvAc/view?usp=sharing](https://drive.google.com/file/d/1VUM7Kd52kyTlaXrZF0yYvHjGZITfxvAc/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dCUuHxBFwvrQPCiXuIXJoPIEudiSrC2B/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
