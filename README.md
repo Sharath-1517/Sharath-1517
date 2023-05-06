@@ -33,6 +33,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharath-1517&" alt="sharath-1517" /></p>
