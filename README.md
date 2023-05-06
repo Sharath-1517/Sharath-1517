@@ -1,38 +1,55 @@
-<h1 align="center">Hi 👋, I'm Sharath Lingam</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Sharath</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharath-1517" alt="sharath-1517" /></a> </p>
+## <p align="center"> A passionate Full-stack learner developer based in India </p>
 
-<p align="left"> <a href="https://twitter.com/sharathlingams" target="blank"><img src="https://img.shields.io/twitter/follow/sharathlingams?logo=twitter&style=for-the-badge" alt="sharathlingams" /></a> </p>
+<br>
 
-- 🔭 I’m currently working on open source researches and contributions to [XWiki organization](https://github.com/xwiki)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/sharathlingams" target="blank">
+    <img src="https://img.shields.io/twitter/follow/sharathlingams?logo=twitter&style=for-the-badge" alt="sharathlingams" />
+</a>
+<br>
 
-- 🌱 I’m currently learning **React.js, TailwindCSS**
+- ### 🔭 I’m currently working on open source researches and contributions to [XWiki organization](https://github.com/xwiki)
 
-- 👯 I’m looking to collaborate on **Any open source and personal projects.**
+- ### 🌱 I’m currently learning **React.js, TailwindCSS**
 
-- 🤝 I’m looking for help with **Fullstack mentoring and oppurtunities**
+- ### 👯 I’m looking to collaborate on **Any open source and personal projects.**
 
-- 👨‍💻 All of my projects are available at my [GitHub repositories](https://github.com/Sharath-1517?tab=repositories)
+- ### 🤝 I’m looking for help with **Fullstack mentoring and oppurtunities**
 
-- 📝 I write articles on [Hashnode - sharathlingam](https://sharathlingam.hashnode.dev/)
+- ### 👨‍💻 All of my projects are available at my [GitHub repositories](https://github.com/Sharath-1517?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, Java, SASS, SCSS,Javascript, React.js**
+- ### 📝 I write articles on [Hashnode - sharathlingam](https://sharathlingam.hashnode.dev/)
 
-- 📫 How to reach me **sharathprof1517@gmail.com**
+- ### 💬 Ask me about **HTML, CSS, Java, SASS, SCSS,Javascript, React.js**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dCUuHxBFwvrQPCiXuIXJoPIEudiSrC2B/view?usp=sharing)
+- ### 📫 How to reach me **sharathprof1517@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+- ### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dCUuHxBFwvrQPCiXuIXJoPIEudiSrC2B/view?usp=sharing)
+
+<br>
+
+# Connect with me:
 <p align="left">
+<br>
 <a href="https://twitter.com/sharathlingams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharathlingams" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sharathlingam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharathlingam" height="30" width="40" /></a>
 <a href="https://hashnode.com/@sharathlingams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sharathlingams" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sharathlingam_1517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharathlingam_1517" height="30" width="40" /></a>
 </p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
+# Languages and Tools
+<br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,mongodb,java,md,git,eclipse,figma,maven,mysql,netlify,postman,powershell,spring,vscode&perline=9)](https://skillicons.dev)
+<br>
+<br>
 
+# Commits and streaks
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharath-1517&" alt="sharath-1517" /></p>
+<br>
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharath-1517" alt="sharath-1517" /></a>
+</p>
