@@ -10,23 +10,23 @@
 </a>
 <br>
 
-- ### 🔭 I’m currently working on open source researches and contributions to [XWiki organization](https://github.com/xwiki)
+- 🔭 I’m currently working on open source researches and contributions to [XWiki organization](https://github.com/xwiki)
 
-- ### 🌱 I’m currently learning **React.js, TailwindCSS**
+- 🌱 I’m currently learning **React.js, TailwindCSS**
 
-- ### 👯 I’m looking to collaborate on **Any open source and personal projects.**
+- 👯 I’m looking to collaborate on **Any open source and personal projects.**
 
-- ### 🤝 I’m looking for help with **Fullstack mentoring and oppurtunities**
+- 🤝 I’m looking for help with **Fullstack mentoring and oppurtunities**
 
-- ### 👨‍💻 All of my projects are available at my [GitHub repositories](https://github.com/Sharath-1517?tab=repositories)
+- 👨‍💻 All of my projects are available at my [GitHub repositories](https://github.com/Sharath-1517?tab=repositories)
 
-- ### 📝 I write articles on [Hashnode - sharathlingam](https://sharathlingam.hashnode.dev/)
+- 📝 I write articles on [Hashnode - sharathlingam](https://sharathlingam.hashnode.dev/)
 
-- ### 💬 Ask me about **HTML, CSS, Java, SASS, SCSS,Javascript, React.js**
+- 💬 Ask me about **HTML, CSS, Java, SASS, SCSS,Javascript, React.js**
 
-- ### 📫 How to reach me **sharathprof1517@gmail.com**
+- 📫 How to reach me **sharathprof1517@gmail.com**
 
-- ### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dCUuHxBFwvrQPCiXuIXJoPIEudiSrC2B/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dCUuHxBFwvrQPCiXuIXJoPIEudiSrC2B/view?usp=sharing)
 
 <br>
 
