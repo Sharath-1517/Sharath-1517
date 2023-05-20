@@ -32,7 +32,6 @@
 
 # Connect with me:
 <p align="left">
-<br>
 <a href="https://twitter.com/sharathlingams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharathlingams" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sharathlingam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sharathlingam" height="30" width="40" /></a>
 <a href="https://hashnode.com/@sharathlingams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sharathlingams" height="30" width="40" /></a>
