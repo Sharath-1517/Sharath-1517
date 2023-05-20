@@ -10,9 +10,9 @@
 </a>
 <br>
 
-- 🔭 I’m currently working on open source researches and contributions to [XWiki organization](https://github.com/xwiki)
+- 🔭 I currently participated in GSOC(Google Summer Of Code) and learnt new things about [XWiki organization](xwiki.org)
 
-- 🌱 I’m currently learning **React.js, TailwindCSS**
+- 🌱 I’m currently learning **React.js, Java(Backend)**
 
 - 👯 I’m looking to collaborate on **Any open source and personal projects.**
 
