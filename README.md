@@ -10,7 +10,7 @@
 </a>
 <br>
 
-- 🔭 I currently participated in GSOC(Google Summer Of Code) and learnt new things about [XWiki organization](xwiki.org)
+- 🔭 I currently participated in GSOC(Google Summer Of Code) and learnt new things about [XWiki organization](https://xwiki.org)
 
 - 🌱 I’m currently learning **React.js, Java(Backend)**
 
