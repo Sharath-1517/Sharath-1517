@@ -50,3 +50,7 @@
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharath-1517" alt="sharath-1517" /></a>
 </p>
+
+## [Roadmap.sh](https://roadmap.sh)
+
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64611a01410780a6d9b3e95e?variant=dark" alt="roadmap.sh"/></a>
