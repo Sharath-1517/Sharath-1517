@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **sharathprof1517@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1dCUuHxBFwvrQPCiXuIXJoPIEudiSrC2B/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFmO1MihGw/D9Sa03vtnpSiPPFpSqq-7g/view?utm_content=DAFmO1MihGw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <br>
 
