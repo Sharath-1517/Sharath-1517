@@ -10,7 +10,7 @@
 </a>
 <br>
 
-- 🔭 I currently participated in GSOC(Google Summer Of Code) and learnt new things about [XWiki organization](https://xwiki.org)
+- 🔭 I'm currently an intern in [Vish Gyana Technology Solutions](https://vgts.tech/) and [Sarmatre International Pvt. Ltd.](https://drive.google.com/file/d/1vIZFeadHZxTVKoANXwhG_592hKrpVPSq/view?usp=sharing)
 
 - 🌱 I’m currently learning **React.js, Java(Backend)**
 
