@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently an intern in [Vish Gyana Technology Solutions](https://vgts.tech/) and [Sarmatre International Pvt. Ltd.](https://drive.google.com/file/d/1vIZFeadHZxTVKoANXwhG_592hKrpVPSq/view?usp=sharing)
 
-- 🌱 I’m currently learning **React.js, Java(Backend)**
+- 🌱 I’m currently learning **React.js, Svelte, Java(Backend)**
 
 - 👯 I’m looking to collaborate on **Any open source and personal projects.**
 
@@ -40,7 +40,7 @@
 # Languages and Tools
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,mongodb,java,md,git,eclipse,figma,maven,mysql,netlify,postman,powershell,spring,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,svelte,tailwind,mongodb,java,md,git,eclipse,figma,maven,mysql,netlify,postman,powershell,spring,vscode&perline=9)](https://skillicons.dev)
 <br>
 <br>
 
