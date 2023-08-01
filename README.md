@@ -10,7 +10,7 @@
 </a>
 <br>
 
-- 🔭 I'm currently an intern in [Vish Gyana Technology Solutions](https://vgts.tech/) and [Sarmatre International Pvt. Ltd.](https://drive.google.com/file/d/1vIZFeadHZxTVKoANXwhG_592hKrpVPSq/view?usp=sharing)
+- 🔭 I'm currently a frontend project builder in [Sarmatre International Pvt. Ltd.](https://drive.google.com/file/d/1vIZFeadHZxTVKoANXwhG_592hKrpVPSq/view?usp=sharing)
 
 - 🌱 I’m currently learning **React.js, Svelte, Java(Backend)**
 
