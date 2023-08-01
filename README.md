@@ -46,6 +46,8 @@
 
 # Commits and streaks
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharath-1517&" alt="sharath-1517" /></p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharath-1517&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharath-1517" alt="sharath-1517" /></a>
