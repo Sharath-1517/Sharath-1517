@@ -12,11 +12,11 @@
 
 - 🔭 I'm currently a frontend project builder in [Sarmatre International Pvt. Ltd.](https://drive.google.com/file/d/1vIZFeadHZxTVKoANXwhG_592hKrpVPSq/view?usp=sharing)
 
-- 🌱 I’m currently learning **React.js, Svelte, Java(Backend)**
+- 🌱 I’m currently learning **React.js, Svelte, Java**
 
 - 👯 I’m looking to collaborate on **Any open source and personal projects.**
 
-- 🤝 I’m looking for help with **Fullstack mentoring and oppurtunities**
+- 🤝 I’m looking for help with **Fullstack mentors and oppurtunities**
 
 - 👨‍💻 All of my projects are available at my [GitHub repositories](https://github.com/Sharath-1517?tab=repositories)
 
@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **HTML, CSS, Java, SASS, SCSS,Javascript, React.js**
 
-- 📫 How to reach me **sharathprof1517@gmail.com**
+- 📫 How to reach me **<a href="mailto:sharathprof1517@gmail.com">sharathprof1517@gmail.com</a>**
 
 - 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFmO1MihGw/D9Sa03vtnpSiPPFpSqq-7g/view?utm_content=DAFmO1MihGw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
