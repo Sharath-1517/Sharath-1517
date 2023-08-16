@@ -10,7 +10,7 @@
 </a>
 <br>
 
-- 🔭 I'm currently a frontend project builder in [Sarmatre International Pvt. Ltd.](https://drive.google.com/file/d/1vIZFeadHZxTVKoANXwhG_592hKrpVPSq/view?usp=sharing)
+- 🔭 I'm currently a frontend intern in [Sarmatre International Pvt. Ltd.](https://drive.google.com/file/d/1vIZFeadHZxTVKoANXwhG_592hKrpVPSq/view?usp=sharing)
 
 - 🌱 I’m currently learning **React.js, Svelte, Java**
 
@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **<a href="mailto:sharathprof1517@gmail.com">sharathprof1517@gmail.com</a>**
 
-- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFmO1MihGw/D9Sa03vtnpSiPPFpSqq-7g/view?utm_content=DAFmO1MihGw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFmO1MihGw/sru1exeNW6AKwwgTA_dK4g/edit?utm_content=DAFmO1MihGw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <br>
 
