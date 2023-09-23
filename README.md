@@ -10,19 +10,15 @@
 </a>
 <br>
 
-- 🔭 I'm currently a frontend intern in [Sarmatre International Pvt. Ltd.](https://drive.google.com/file/d/1vIZFeadHZxTVKoANXwhG_592hKrpVPSq/view?usp=sharing)
+- 🔭 I'm currently a Junior Software Enginner in [Vish Gyana Technology Solutions](https://vgts.tech/index.html)
 
-- 🌱 I’m currently learning **React.js, Svelte, Java**
+- 🌱 I’m currently learning **Next.js and Java**
 
 - 👯 I’m looking to collaborate on **Any open source and personal projects.**
-
-- 🤝 I’m looking for help with **Fullstack mentors and oppurtunities**
 
 - 👨‍💻 All of my projects are available at my [GitHub repositories](https://github.com/Sharath-1517?tab=repositories)
 
 - 📝 I write articles on [Hashnode - sharathlingam](https://sharathlingam.hashnode.dev/)
-
-- 💬 Ask me about **HTML, CSS, Java, SASS, SCSS,Javascript, React.js**
 
 - 📫 How to reach me **<a href="mailto:sharathprof1517@gmail.com">sharathprof1517@gmail.com</a>**
 
@@ -55,4 +51,4 @@
 
 ## [Roadmap.sh](https://roadmap.sh)
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64611a01410780a6d9b3e95e?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64611a01410780a6d9b3e95e?variant=dark&roadmaps=full-stack%2Cfrontend%2Cjava" alt="roadmap.sh"/></a>
