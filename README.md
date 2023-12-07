@@ -61,4 +61,4 @@
 
 ## [Roadmap.sh](https://roadmap.sh)
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/64611a01410780a6d9b3e95e?variant=dark&roadmaps=full-stack%2Cfrontend%2Cjava" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64611a01410780a6d9b3e95e?variant=dark)](https://roadmap.sh)
